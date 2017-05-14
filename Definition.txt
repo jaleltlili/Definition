@@ -30,10 +30,12 @@ CanIUse :
 
 SEO : L'optimisation pour les moteurs de recherche, couramment appelée SEO (acronyme de Search Engine Optimization), est un ensemble de techniques visant à optimiser la visibilité d'un page web dans les pages de résultats de recherche (les SERP, pour Search Engine Result Pages).
 
-SnakeCase :
+snake_case : Par opposition à CamelCase, faire du snake_case consiste à mettre un underscore "_" entre chaque mot d'une suite de mots quand on nomme quelque chose(Pour mimiquer un espace).
 
-CamelCase :
+CamelCase : Par opposition à snake_case, faire du CamelCase consiste à mettre une majuscule à la première lettre de chaque mot d'une suite de mots quand on nomme quelque chose(Pour mimiquer un espace).
 
 MarkDown :
 
-ComponentsGulp Like :
+Components:
+
+Gulp Like :
