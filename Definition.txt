@@ -28,7 +28,7 @@ CSS3 :
 
 CanIUse :
 
-SEO :
+SEO : L'optimisation pour les moteurs de recherche, couramment appelée SEO (acronyme de Search Engine Optimization), est un ensemble de techniques visant à optimiser la visibilité d'un page web dans les pages de résultats de recherche (les SERP, pour Search Engine Result Pages).
 
 SnakeCase :
 
