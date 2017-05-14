@@ -32,11 +32,7 @@ SEO : L'optimisation pour les moteurs de recherche, couramment appelée SEO (acr
 
 snake_case : Par opposition à CamelCase, faire du snake_case consiste à mettre un underscore "_" entre chaque mot d'une suite de mots quand on nomme quelque chose(Pour mimiquer un espace).
 
-<<<<<<< HEAD
-CamelCase : Par opposition à snake_case, faire du CamelCase consiste à mettre une majuscule à la première lettre de chaque mot d'une suite de mots quand on nomme quelque chose(Pour mimiquer un espace).
-=======
 CamelCase : Littéralement « casse de chameau » est une pratique qui consiste à écrire un ensemble de mots en les liant sans espace ni ponctuation, et en mettant en majuscule la première lettre de chaque mot.
->>>>>>> ce19ca11a463b1bde97ef1c1c878a34cddd20c41
 
 MarkDown :
 
