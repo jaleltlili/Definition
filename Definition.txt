@@ -12,7 +12,7 @@ WebPack :
 
 jQuery :
 
-DOM :
+DOM : Le Modèle Objet de Document (DOM) est une interface de programmation d'application (API) pour des documents HTML valides et XML bien-formés. Il définit la structure logique d'un document (au sens large tu terme!) et la manière d'y accéder et de le manipuler.
 
 Compiler vs Interpreter :
 
