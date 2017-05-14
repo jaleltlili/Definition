@@ -1,3 +1,0 @@
-# Definition
-# Definition
-# Definition
