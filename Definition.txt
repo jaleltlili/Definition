@@ -10,7 +10,7 @@ Grunt :
 
 WebPack :
 
-jQuery : jQuery est une bibliothèque JavaScript libre et multi-plateforme créée pour faciliter l'écriture de scripts côté client dans le code HTML des pages web
+jQuery : jQuery est une bibliothèque JavaScript libre et multi-plateforme créée pour faciliter l'écriture de scripts côté client dans le code HTML des pages web.
 
 DOM : Le Modèle Objet de Document (DOM) est une interface de programmation d'application (API) pour des documents HTML valides et XML bien-formés. Il définit la structure logique d'un document (au sens large tu terme!) et la manière d'y accéder et de le manipuler.
 
@@ -32,7 +32,7 @@ SEO : L'optimisation pour les moteurs de recherche, couramment appelée SEO (acr
 
 SnakeCase :
 
-CamelCase :
+CamelCase : Littéralement « casse de chameau » est une pratique qui consiste à écrire un ensemble de mots en les liant sans espace ni ponctuation, et en mettant en majuscule la première lettre de chaque mot.
 
 MarkDown :
 
