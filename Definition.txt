@@ -1,2 +1,39 @@
 Liste des définitions :
-Mettez les définitions ici
+***********************
+
+
+NPM : Il est installé par défaut avec Node.JS, faisant partie de son environnement. Il est le gestionnaire de paquets officiel de Node.JS et s’utilise en ligne de commande.
+
+SASS :
+
+Grunt :
+
+WebPack :
+
+jQuery :
+
+DOM :
+
+Compiler vs Interpreter :
+
+AJAX :
+
+JS :
+
+V8 :
+
+W3C :
+
+CSS3 :
+
+CanIUse :
+
+SEO :
+
+SnakeCase :
+
+CamelCase :
+
+MarkDown :
+
+ComponentsGulp Like :
