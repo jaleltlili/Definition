@@ -4,7 +4,7 @@ Liste des définitions :
 
 NPM : Il est installé par défaut avec Node.JS, faisant partie de son environnement. Il est le gestionnaire de paquets officiel de Node.JS et s’utilise en ligne de commande.
 
-SASS : 
+SASS : Sass est l’acronyme “Syntactically Awesome Stylesheets”.  C’est une extension CSS qui ajoute de nouvelles règles comme les variables, les mixins, l’héritage et plus encore, simplifiant ainsi la vie des intégrateurs web.
 
 Grunt : Grunt a été créé par  Ben Alman et est écrit en Node.js. Il est distribué par NPM.
 
