@@ -23,7 +23,11 @@ JS :
 
 V8 :
 
+<<<<<<< Updated upstream
 W3C : 
+=======
+W3C : Le World Wide Web Consortium, W3C, est un organisme de standardisation à but non lucratif, fondé en octobre 1994 chargé de promouvoir la compatibilité des technologies
+>>>>>>> Stashed changes
 
 CSS3 :
 
