@@ -9,7 +9,7 @@ SASS : Sass est l’acronyme “Syntactically Awesome Stylesheets”.  C’est 
 Grunt : Grunt a été créé par  Ben Alman et est écrit en Node.js. Il est distribué par NPM.
 
 
-WebPack : C’est un taskrunner spécialisé. Il propose un système de « loader », qui permet de lier sous forme de « modules »  du code JS, CSS, HTML par exemple.
+WebPack : C’est un taskrunner spécialisé. Il propose un système de « loader », qui permet de lier sous forme de « modules »/« paquets »  du code JS, CSS, HTML par exemple.
 
 jQuery : jQuery est une bibliothèque JavaScript libre et multi-plateforme créée pour faciliter l'écriture de scripts côté client dans le code HTML des pages web.
 
