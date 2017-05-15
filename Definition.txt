@@ -23,11 +23,11 @@ JS :
 
 V8 :
 
-W3C :
+W3C : 
 
 CSS3 :
 
-CanIUse :
+CanIUse : Caniuse est un site utilisé pour regarder la compatibilité du Front-end d'un site vis-à-vis des différents navigateur, ordinateurs et portables utilisés.
 
 SEO : L'optimisation pour les moteurs de recherche, couramment appelée SEO (acronyme de Search Engine Optimization), est un ensemble de techniques visant à optimiser la visibilité d'un page web dans les pages de résultats de recherche (les SERP, pour Search Engine Result Pages).
 
