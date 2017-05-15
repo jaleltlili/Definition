@@ -6,7 +6,8 @@ NPM : Il est installé par défaut avec Node.JS, faisant partie de son environne
 
 SASS : 
 
-Grunt :
+Grunt : Grunt a été créé par  Ben Alman et est écrit en Node.js. Il est distribué par NPM.
+
 
 WebPack :
 
