@@ -4,7 +4,7 @@ Liste des définitions :
 
 NPM : Il est installé par défaut avec Node.JS, faisant partie de son environnement. Il est le gestionnaire de paquets officiel de Node.JS et s’utilise en ligne de commande.
 
-SASS :
+SASS : 
 
 Grunt :
 
@@ -34,7 +34,7 @@ snake_case : Par opposition à CamelCase, faire du snake_case consiste à mettre
 
 CamelCase : Littéralement « casse de chameau » est une pratique qui consiste à écrire un ensemble de mots en les liant sans espace ni ponctuation, et en mettant en majuscule la première lettre de chaque mot.
 
-MarkDown :
+MarkDown : Language de balisage qui permet d'écrire du HTML de façon raccourcie. Markdown est un système d’édition et de formatage de texte ; c’est à la fois une syntaxe, un script de conversion texte → HTML et un format de fichier. Il est couramment utilisé pour les fichiers de documentation d’un projet ou d’un jeu de données -souvent nommé readme.md. 
 
 Components:
 
