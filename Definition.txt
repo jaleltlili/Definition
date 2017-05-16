@@ -6,8 +6,7 @@ NPM : Il est installé par défaut avec Node.JS, faisant partie de son environne
 
 SASS : Sass est l’acronyme “Syntactically Awesome Stylesheets”.  C’est une extension CSS qui ajoute de nouvelles règles comme les variables, les mixins, l’héritage et plus encore, simplifiant ainsi la vie des intégrateurs web.
 
-Grunt : Grunt a été créé par  Ben Alman et est écrit en Node.js. Il est distribué par NPM.
-
+Grunt : Grunt est un "TaskRunner". Il permet d'automatiser des tâches avec le langage JS tel que la minification (réduire la taille du code), l'unit testing le "linting" ou encore la compilation
 
 WebPack : C’est un taskrunner spécialisé. Il propose un système de « loader », qui permet de lier sous forme de « modules »/« paquets »  du code JS, CSS, HTML par exemple.
 
