@@ -16,7 +16,7 @@ DOM : Le Modèle Objet de Document (DOM) est une interface de programmation d'ap
 
 Compiler vs Interpreter : Un compiler traduit tout le code en binaire avant de l'éxecuter là où un interpreter va traduire le code au fur et à mesure de son éxecution.
 
-AJAX :
+AJAX : Ajax est une architecture informatique servant à dynamiser des pages et applications web tout en les rendants plus interactives avec l'utilisateur.
 
 JS :
 
