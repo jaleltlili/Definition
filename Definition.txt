@@ -40,7 +40,8 @@ Components:
 
 Gulp Like :
 
-API :
+API : Une API (Acronyme de 'Application Programming Interface') ,en français  Interface de programmation applicative, est un ensemble de code permettant d'offrir des services à un autre système ou site web. (exemple : système banquaire de paypal)
+incrusté dans un site tier.)
 
 SGBD :
 
