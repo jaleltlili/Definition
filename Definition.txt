@@ -40,3 +40,21 @@ MarkDown : Language de balisage qui permet d'écrire du HTML de façon raccourci
 Components:
 
 Gulp Like :
+
+API :
+
+SGBD :
+
+Jasmine : 
+
+Moca : 
+
+Chaï : 
+
+Redux : 
+
+IDE : 
+
+BDD : 
+
+Cloud : 
