@@ -43,9 +43,9 @@ Gulp Like :
 API : Une API (Acronyme de 'Application Programming Interface') ,en français  Interface de programmation applicative, est un ensemble de code permettant d'offrir des services à un autre système ou site web. (exemple : système banquaire de paypal 
 embed dans un site tier.)
 
-SGBD :
+SGBD : En informatique, un système de gestion de base de données (abr. SGBD) est un logiciel système destiné à stocker et à partager des informations dans une base de données, en garantissant la qualité, la pérennité et la confidentialité des informations, tout en cachant la complexité des opérations.
 
-Jasmine : 
+Jasmine : Jasmine est un cadre de développement axé sur comportement pour tester le code de Javascript. Il ne dépend pas d'autres cadres de Javascript.
 
 Moca : 
 
@@ -57,4 +57,6 @@ IDE :
 
 BDD : 
 
-Cloud : 
+Cloud : Le cloud computing, ou l'informatique en nuage ou nuagique ou encore l'infonuagique (au Québec), est l'exploitation de la puissance de calcul ou de stockage de serveurs informatiques distants par l'intermédiaire d'un réseau, généralement internet.
+
+Workflow: Déroulement des travaux
