@@ -53,7 +53,8 @@ Chaï :
 
 Redux : 
 
-IDE : 
+IDE : Un environnement de développement est un ensemble d'outils. Il comporte un éditeur de texte, un compilateur et un débogueur en ligne, qui permet d'exécuter ligne par ligne le programme en cours de construction.
+Dans un environnement de développement « intégré », les outils sont prévus pour être utilisés ensemble.
 
 BDD : 
 
