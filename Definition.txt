@@ -18,15 +18,15 @@ Compiler vs Interpreter : Un compiler traduit tout le code en binaire avant de l
 
 AJAX : Ajax est une architecture informatique servant à dynamiser des pages et applications web tout en les rendants plus interactives avec l'utilisateur.
 
-JS :
+JS : Le JavaScript est un langage informatique utilisé sur les pages web. Ce langage à la particularité de s'activer sur le poste client, en d'autres mots c'est votre ordinateur qui va recevoir le code et qui devra l'exécuter.L'exécution du code est effectué par votre navigateur internet tel que Firefox ou Internet Explorer.
 
-V8 :
+V8 : V8 JavaScript engine est un moteur JavaScript libre et open source développé par Google au Danemark. Il est notamment utilisé dans les navigateurs Chromium et Google Chrome, ainsi que sur la plateforme node.js.fonctionne sur les architectures x86 (32 bits et 64 bits) et ARM.
 
 W3C : Le World Wide Web Consortium, W3C, est un organisme de standardisation à but non lucratif, fondé en 1994 chargé de promouvoir la compatibilité du World Wide Web. 
 
-CSS3 :
+CSS3 : Les feuilles de style en cascade1, généralement appelées CSS de l'anglais Cascading Style Sheets, forment un langage informatique qui décrit la présentation des documents HTML et XML. Les standards définissant CSS sont publiés par le World Wide Web Consortium (W3C). Introduit au milieu des années 1990, CSS devient couramment utilisé dans la conception de sites web et bien pris en charge par les navigateurs web dans les années 2000.
 
-CanIUse : Caniuse est un site utilisé pour regarder la compatibilité du Front-end d'un site vis-à-vis des différents navigateur, ordinateurs et portables utilisés.
+CanIUse : CanIUse est un site utilisé pour regarder la compatibilité du Front-end d'un site vis-à-vis des différents navigateur, ordinateurs et portables utilisés.
 
 SEO : L'optimisation pour les moteurs de recherche, couramment appelée SEO (acronyme de Search Engine Optimization), est un ensemble de techniques visant à optimiser la visibilité d'un page web dans les pages de résultats de recherche (les SERP, pour Search Engine Result Pages).
 
@@ -34,7 +34,7 @@ snake_case : Par opposition à CamelCase, faire du snake_case consiste à mettre
 
 CamelCase : Littéralement « casse de chameau » est une pratique qui consiste à écrire un ensemble de mots en les liant sans espace ni ponctuation, et en mettant en majuscule la première lettre de chaque mot.
 
-MarkDown : Language de balisage qui permet d'écrire du HTML de façon raccourcie. Markdown est un système d’édition et de formatage de texte ; c’est à la fois une syntaxe, un script de conversion texte → HTML et un format de fichier. Il est couramment utilisé pour les fichiers de documentation d’un projet ou d’un jeu de données -souvent nommé readme.md. 
+MarkDown : Language de balisage qui permet d'écrire du HTML de façon raccourcie. Markdown est un système d’édition et de formatage de texte ; c’est à la fois une syntaxe, un script de conversion texte → HTML et un format de fichier. Il est couramment utilisé pour les fichiers de documentation d'un projet ou d’un jeu de données -souvent nommé readme.md. 
 
 Components:
 
