@@ -56,7 +56,7 @@ Redux :
 IDE : Un environnement de développement est un ensemble d'outils. Il comporte un éditeur de texte, un compilateur et un débogueur en ligne, qui permet d'exécuter ligne par ligne le programme en cours de construction.
 Dans un environnement de développement « intégré », les outils sont prévus pour être utilisés ensemble.
 
-BDD : 
+BDD : Le BDD consiste à étendre le TDD en écrivant non plus du code compréhensible uniquement par des développeurs, mais sous forme de scénario compréhensible par toutes les personnes impliquées dans le projet.
 
 Cloud : Le cloud computing, ou l'informatique en nuage ou nuagique ou encore l'infonuagique (au Québec), est l'exploitation de la puissance de calcul ou de stockage de serveurs informatiques distants par l'intermédiaire d'un réseau, généralement internet.
 
