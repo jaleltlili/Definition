@@ -49,7 +49,7 @@ Jasmine : Jasmine est un cadre de développement axé sur comportement pour test
 
 Moca : 
 
-Chaï : 
+Chaï : Chaï est une librairie d'assertion pour les BDD/TDD sur node.js.
 
 Redux : 
 
