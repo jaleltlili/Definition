@@ -51,7 +51,8 @@ Moca :
 
 Chaï : Chaï est une librairie d'assertion pour les BDD/TDD sur node.js.
 
-Redux : 
+Redux : Redux est une implémentation dérivée de Flux. Ça permet de créer un Store qui contient un état, réagit à des actions dispatchées, et auquel on peut souscrire pour être notifié des changements. Il permet également l'ajout de middlewares, qui peuvent en quelque sorte pre-process les actions.
+Du coup, on va écrire une implémentation de Redux pour mieux décomposer son fonctionnement.
 
 IDE : Un environnement de développement est un ensemble d'outils. Il comporte un éditeur de texte, un compilateur et un débogueur en ligne, qui permet d'exécuter ligne par ligne le programme en cours de construction.
 Dans un environnement de développement « intégré », les outils sont prévus pour être utilisés ensemble.
@@ -60,4 +61,6 @@ BDD : Le BDD consiste à étendre le TDD en écrivant non plus du code compréhe
 
 Cloud : Le cloud computing, ou l'informatique en nuage ou nuagique ou encore l'infonuagique (au Québec), est l'exploitation de la puissance de calcul ou de stockage de serveurs informatiques distants par l'intermédiaire d'un réseau, généralement internet.
 
-Workflow: Déroulement des travaux
+Workflow: environnement des travaux
+
+middlewares: En architecture informatique, un middleware (anglicisme) ou intergiciel est un logiciel tiers qui crée un réseau d'échange d'informations entre différentes applications informatiques.
