@@ -61,3 +61,19 @@ BDD : Le BDD consiste à étendre le TDD en écrivant non plus du code compréhe
 Cloud : Le cloud computing, ou l'informatique en nuage ou nuagique ou encore l'infonuagique (au Québec), est l'exploitation de la puissance de calcul ou de stockage de serveurs informatiques distants par l'intermédiaire d'un réseau, généralement internet.
 
 Workflow: Déroulement des travaux
+
+OOD:
+
+OOP:
+
+TDC:
+
+MUC:
+
+DAY:
+
+Kiss:
+
+Yajni:
+
+POLA:
