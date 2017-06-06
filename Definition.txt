@@ -67,17 +67,20 @@ Workflow: environnement de travail.
 
 OOD:
 
-OOP:
+OOP: Programmation Orienté Objet (le monde réel des objets: représentation par des propriétés et des méthodes)
 
-TDC:
+TDD: 
 
 MUC:
 
-DAY:
+DAY:// DRY (Don't Repeat Yourself) : Ce principe est souvent décrit comme la règle de trois :
+1. Écrire un « bout de code » une fois sans trop lui porter attention (du code « jetable »), ce n'est pas trop grave
+2. L'écrire une deuxième fois, c'est suspect, et il faut se demander pourquoi
+3. Le faire une troisième fois, c'est un signe qu'on est improductive / improductif et qu'on perd notre temps. Le moment est venu de repenser notre approche pour automatiser le geste, généraliser le code, ou agir d'une autre manière permettant de ne plus de répéter inutilement.
 
-Kiss:
+Kiss (Keep it Simple, Stupid!): chercher la solution simple, la démarche simple, de penser à l'usager – de viser la convivialité. La perfection survient non pas lorsqu'on a ajouté tout ce qu'il y avait à ajouter, mais bien lorsqu'on a enlevé tout ce qu'il y a de superflu.
 
-Yajni:
+YAGNI (You Ain't Gonna Need It): ce principe nous recommande de n'implémenter une fonctionnalité que lorsqu'elle est nécessaire, pas avant.
 
 POLA:
 
